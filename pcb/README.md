@@ -5,4 +5,4 @@
 [kicad](kicad)-Ordner mit Kicad-Projekt
 
 
-Kosten für 50 Stück: ca. 180€ (inkl. Versand) -> unter 4€/Stück
+Kosten für 50 Stück: ca. 180€ (inkl. Versand) &#8594; unter 4€/Stück
